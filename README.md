@@ -40,7 +40,7 @@ STEPS TO RUN THE APPLICATION
 
  2. Configure MySQL:  Ensure your MySQL server is running and you have created a database for the application.
  3. Update application.properties:  Modify src/main/resources/application.properties with your MySQL database credentials.
- 4. Access the application: Open your  browser and go to http://localhost:8080 to access the user registration interface..
+ 4. Access the application: Open your  browser and go to http://localhost:8080/view to access the user registration interface..
     
     
 CONTRIBUTIONS:<br> Contributions are welcome! Please open issues and submit pull requests for any improvements or bug fixes.
