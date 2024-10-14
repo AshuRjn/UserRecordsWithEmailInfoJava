@@ -1,7 +1,7 @@
 USERRECORDSWITHEMAILINFOJAVA
 
 OVERVIEW:
-<br>
+
 user record with email info is a Spring Boot application designed for managing user registrations. It allows users to perform CRUD operations through a user-friendly interface, leveraging Hibernate for ORM and MySQL for data persistence.
 
 FEATURES
