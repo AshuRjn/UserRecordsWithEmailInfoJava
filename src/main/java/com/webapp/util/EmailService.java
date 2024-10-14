@@ -2,7 +2,7 @@ package com.webapp.util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
-// code to sent the email msg of registration is saved
+// code to sent registration is saved  to email 
 
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.mail.SimpleMailMessage;
